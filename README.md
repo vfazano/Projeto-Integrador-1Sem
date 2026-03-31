@@ -16,7 +16,6 @@ Nosso objetivo é solucionar este problema através de:
 ## 👥 Integrantes
 | Foto | Nome | GitHub | Função no Projeto |
 | :---: | :--- | :---: | :--- |
-| <img src="https://github.com/gabrielcamargogsilva.png" width="50px"> | **Gabriel Camargo** | [Link](https://github.com/gabrielcamargogsilva) |  Sem função no momento |
 | <img src="https://github.com/GustavoTucci.png" width="50px"> | **Gustavo Tucci** | [Link](https://github.com/GustavoTucci) | Sem função no momento |
 | <img src="https://github.com/paulopoppes-hash.png" width="50px"> | **Paulo Poppes** | [Link](https://github.com/paulopoppes-hash) | Sem função no momento  |
 | <img src="https://github.com/ScardiaSam34.png" width="50px"> | **Samuel Cardia** | [Link](https://github.com/ScardiaSam34) | Sem função no momento  |
