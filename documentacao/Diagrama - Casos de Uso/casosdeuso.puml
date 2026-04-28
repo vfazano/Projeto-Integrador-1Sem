@@ -1,6 +1,6 @@
 @startuml "Sistema de Gestão de Manutenção"
 
-header Engenharia de Software - Gem Architectus
+header Engenharia de Software - Casos de Uso
 title Diagrama de Casos de Uso - Manutenção Industrial
 
 left to right direction
